@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DOMINIO.Producto">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAEAACAAgCAEAABAAAARAgAAAAAAAAAAAQAAAEg=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Proveedor">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAIQAABAgAAAAABAgAAAQAAEEAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Proveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Rubro">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAABAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rubro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Historico">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIAAAAQAAAAFAAAAAABAAAAAAAAAAACAAAE=</HashCode>
+      <FileName>Historico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Stock">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAE=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Pedido">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBAEAAAAAgAEAAIFAAAAAAgAAQAAQAAAAEAAAAAA=</HashCode>
+      <FileName>Pedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Estado">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAABAgAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Estado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Venta">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACEAAAAAAAAAAACAAAAAAiAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Persona">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAgQAAAAEAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Cliente">
+    <Position X="11.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DOMINIO.Empleado">
+    <Position X="7.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
